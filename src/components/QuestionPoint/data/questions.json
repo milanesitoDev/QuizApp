@@ -1,0 +1,34 @@
+[
+  {
+    "question": "¿Cuál es la fórmula para calcular la suma de dos dados?",
+    "options": ["A. Suma de los valores en los dos dados.", "B. Multiplicación de los valores en los dos dados.", "C. Resta de los valores en los dos dados.", "D. Ninguna de las anteriores."]
+  },
+  {
+    "question": "¿Cómo se calcula la probabilidad de obtener un número específico en un dado de seis caras?",
+    "options": ["A. Se divide 1 entre el número total de caras del dado.", "B. Se multiplica el número total de caras del dado por 6.", "C. Se divide 6 entre el número específico.", "D. Se resta el número específico del número total de caras del dado."]
+  },
+  {
+    "question": "¿Qué fórmula se utiliza para calcular la probabilidad de obtener una suma específica en dos dados?",
+    "options": ["A. (1 / 36)", "B. (1 / 6)", "C. (1 / 12)", "D. (1 / 18)"]
+  },
+  {
+    "question": "¿Cómo se calcula la probabilidad de obtener una suma de 7 con dos dados?",
+    "options": ["A. (1 / 6)", "B. (1 / 12)", "C. (1 / 9)", "D. (1 / 36)"]
+  },
+  {
+    "question": "¿Cuál es la fórmula para calcular la probabilidad de obtener un número par en un dado?",
+    "options": ["A. (1 / 2)", "B. (1 / 3)", "C. (1 / 4)", "D. (1 / 6)"]
+  },
+  {
+    "question": "¿Qué fórmula se utiliza para calcular la probabilidad de obtener un número impar en un dado?",
+    "options": ["A. (1 / 2)", "B. (1 / 3)", "C. (1 / 4)", "D. (1 / 6)"]
+  },
+  {
+    "question": "¿Cómo se calcula la probabilidad de obtener un número mayor a 4 en un dado?",
+    "options": ["A. (1 / 2)", "B. (1 / 3)", "C. (1 / 4)", "D. (1 / 6)"]
+  },
+  {
+    "question": "¿Cuál es la fórmula para calcular la probabilidad de obtener un número menor o igual a 3 en un dado?",
+    "options": ["A. (1 / 2)", "B. (1 / 3)", "C. (1 / 4)", "D. (1 / 6)"]
+  }
+]

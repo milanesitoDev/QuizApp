@@ -1,0 +1,32 @@
+.VisualQuiz {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.options-row {
+  display: flex;
+  justify-content: center;
+}
+
+.option {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.option {
+  cursor: pointer;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s ease;
+}
+
+.option:hover {
+  transform: scale(1.1);
+}
+
+/* Estilos para la opción seleccionada */
+.selected {
+  border: 3px solid #754043;
+  border-radius: 10px;
+  /* Cambia el color del borde */
+}
